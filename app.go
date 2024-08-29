@@ -11,7 +11,7 @@ func randRange(min, max int) int {
 
 func main() {
 	router := http.NewServeMux()
-
+	//test
 	quotes := []string{
 		"Try not to become a person of success, but rather try to become a person of value. ~Albert Einstein",
 		"When you stop chasing the wrong things you give the right things a chance to catch you. ~Lolly Daskal",
